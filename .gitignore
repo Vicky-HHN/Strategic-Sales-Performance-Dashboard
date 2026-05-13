@@ -1,0 +1,6 @@
+data/raw/*.csv
+data/processed/*.csv
+reports/*.png
+__pycache__/
+*.pyc
+.env
